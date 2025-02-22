@@ -1,6 +1,3 @@
-import mysql.connector
-import os
-
 import sqlite3
 
 
